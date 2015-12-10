@@ -1,0 +1,12 @@
+blue
+bleu
+red
+rouge
+green
+vert
+purple
+violet
+pink
+rose
+orange
+orange

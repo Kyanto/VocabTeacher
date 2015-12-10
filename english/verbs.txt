@@ -1,0 +1,8 @@
+eat
+manger
+sing
+chanter
+walk
+marcher
+run
+courir

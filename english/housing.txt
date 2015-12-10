@@ -1,0 +1,8 @@
+floor
+etage
+window
+fenêtre
+door
+porte
+bedroom
+chambre

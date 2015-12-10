@@ -1,0 +1,8 @@
+dog
+chien
+cat
+chat
+rabbit
+lapin
+goose
+oie

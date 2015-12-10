@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1449715506 source:c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\main.cpp
+	"main.hpp"
+
+1449690290 source:c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\init.cpp
+	"init.hpp"
+
+1449690224 c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\init.hpp
+	<iostream>
+	<fstream>
+	<string>
+
+1449716419 source:c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\category.cpp
+	"category.hpp"
+
+1449715674 c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\category.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<limits>
+	<algorithm>
+
+1449691751 c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\word.hpp
+	<string>
+
+1449701197 c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\main.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+	"category.hpp"
+	"word.hpp"
+
+1449691783 source:c:\users\adrien\desktop\projets_c\vocabteacher\vocabteacher\word.cpp
+	"word.hpp"
+
+1449715506 source:c:\users\adrien\desktop\projets_c\vocabteacher\main.cpp
+	"main.hpp"
+
+1449701197 c:\users\adrien\desktop\projets_c\vocabteacher\main.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+	"category.hpp"
+	"word.hpp"
+
+1449715674 c:\users\adrien\desktop\projets_c\vocabteacher\category.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<limits>
+	<algorithm>
+

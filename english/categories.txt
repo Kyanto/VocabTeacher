@@ -1,0 +1,10 @@
+verbs
+food
+animals
+objects
+places
+jobs
+colors
+clothes
+family
+housing

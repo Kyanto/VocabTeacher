@@ -1,0 +1,14 @@
+sister
+soeur
+daughter
+fille
+father
+pere
+uncle
+oncle
+mother
+mere
+brother
+frere
+dad
+papa

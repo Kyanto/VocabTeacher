@@ -1,0 +1,6 @@
+keyboard
+clavier
+mouse
+souris
+book
+livre
