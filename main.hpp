@@ -11,4 +11,3 @@ namespace {
 
 
 #include "category.hpp"
-#include "word.hpp"
