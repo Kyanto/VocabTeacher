@@ -10,3 +10,13 @@ pink
 rose
 orange
 orange
+black
+noir
+white
+blanc
+yellow
+jaune
+grey
+gris
+brown
+marron
