@@ -11,6 +11,8 @@ int main()
     Category cat(cats[old_choice-1]) ;
     bool again = true, menu = true;
 
+    //while(1) cout << "Test : " << (cin.get()) << endl;
+
     do{
         again = true;
         cout << "=== Main menu ===" << endl << "1 - Play" << endl << "2 - Display" << endl << "3 - Edit" << endl << endl << "0 - Leave" << endl << endl << "Your choice : ";

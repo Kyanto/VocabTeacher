@@ -56,3 +56,25 @@
 	<limits>
 	<algorithm>
 
+1449880657 source:c:\users\kyanto\desktop\cb_projets\vocabteacher\category.cpp
+	"category.hpp"
+
+1449880657 c:\users\kyanto\desktop\cb_projets\vocabteacher\category.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<limits>
+	<algorithm>
+
+1449906780 source:c:\users\kyanto\desktop\cb_projets\vocabteacher\main.cpp
+	"main.hpp"
+
+1449880657 c:\users\kyanto\desktop\cb_projets\vocabteacher\main.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+	"category.hpp"
+
